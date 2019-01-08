@@ -1,2 +1,2 @@
 # Gradient_descent_Linear_Regression
-For Two parameters
+this is just for 2 parameters.
